@@ -1,0 +1,7 @@
+# Written for Google Colab with a GPU runtime, which also provides google.colab (Drive mount).
+tensorflow
+numpy
+pandas
+matplotlib
+scikit-learn
+pillow
